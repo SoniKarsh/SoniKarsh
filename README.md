@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on **Combining AR with Real time scene mapping**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SoniKarsh](https://github.com/SoniKarsh)
+- 👨‍💻 All of my projects are available on <a href="https://github.com/SoniKarsh">Github.</a>
 
-- 📝 I regularly write articles on [http://medium.com/@sonikarsh](http://medium.com/@sonikarsh)
+- 📝 I regularly write articles on <a href="http://medium.com/@sonikarsh">Medium.</a>
 
 - 💬 Ask me about **Android, React, React Native.**
 
-- 📫 How to reach me **soni.karsh53@gmail.com**
+- 📫 How to reach me <a href="mailto:soni.karsh53@gmail.com">Say Hi!!!.</a>
 
 - ⚡ Fun fact **I'm explorer but faster than internet**
   
